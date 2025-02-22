@@ -113,3 +113,20 @@ git push origin :refs/tags/<tagname> #删除一个远程标签
 > [ **Github入门教程** ]： https://github.com/CatOneTwo/GitHub-Tutorial?tab=readme-ov-file 
 >
 > [ **Git入门教程** ]：https://liaoxuefeng.com/books/git/introduction/index.html 
+
+#### 2.Android 基础
+
+#### 
+
+#### 3.JAVA基础
+
+1. JDK & JRE & JVM & JIT 编译与解释并存
+2. java 与 c++ 的区别
+3. 所有整型包装类对象之间值的比较，全部使用 equals 方法比较
+4. 自动装箱与拆箱 valueof()
+5. 浮点数运算精度丢失 BigDecimal
+6. string & stringbuilder & stringbuffer 区别与使用
+
+
+
+#### 4.C++ 基础
